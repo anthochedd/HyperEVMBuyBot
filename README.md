@@ -1,15 +1,15 @@
 # HYPE Swap Bot
 
-A trading bot that automatically buys tokens on the HyperEVM blockchain using minimal amounts of HYPE every 5 seconds (configurable).
+A trading bot that automatically buys tokens on the HyperEVM blockchain using micro-transactions of HYPE every 5 seconds (configurable).
 
 ## Description
 
-This bot automatically purchases tokens using tiny amounts of HYPE (0.00000001 HYPE by default) every 5 seconds (configurable) on the HyperEVM blockchain.
+This bot automatically purchases tokens using micro-transactions of HYPE (0.00000001 HYPE by default) every 5 seconds (configurable) on the HyperEVM blockchain.
 
 ## Features
 
 - Buys tokens automatically every 5 seconds (configurable)
-- Uses minimal HYPE amounts (configurable)
+- Uses micro-transactions of HYPE (configurable)
 - Works on HyperEVM blockchain
 - Easy to configure
 
