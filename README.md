@@ -1,4 +1,4 @@
-# HYPE Swap Bot
+# HyperEVM micro buy bot
 
 A trading bot that automatically buys tokens on the HyperEVM blockchain using micro-transactions of HYPE every 5 seconds (configurable).
 
